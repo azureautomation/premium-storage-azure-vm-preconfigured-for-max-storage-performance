@@ -1,0 +1,20 @@
+{
+    "Author": "William (Microsoft)",
+    "ContentSize": 34090,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/premium-storage-azure-vm-preconfigured-for-max-storage-performance/master/Premium_Storage_Azure_High_IO.ps1",
+    "DownloadCount": 855,
+    "Id": "Premium-Storage-Azure-VM-7e4a073c",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 566,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-4-29T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script sample demonstrates how to utilize Azure PowerShell to deploy a Windows based virtual machine from the Azure image gallery and configure Premium Storage & Storage Spaces to get the highest storage performance currently available.",
+    "Title": "Premium Storage Azure VM preconfigured for max storage performance",
+    "UpdatedDate": "2015-4-29T00:00:00",
+    "Url": "https://github.com/azureautomation/premium-storage-azure-vm-preconfigured-for-max-storage-performance",
+    "UserTags": "SQL Server, Microsoft Azure, Windows"
+}
